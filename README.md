@@ -12,4 +12,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cloudwhile/tpcl&type=Timeline)](https://github.com/cloudwhile/tpcl)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
