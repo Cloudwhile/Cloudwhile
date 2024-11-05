@@ -19,4 +19,5 @@ jobs:
           SHOW_SHORT_INFO: "FALSE"
           DEBUG_LOGGING: "FALSE"
           SHOW_PROFILE_VIEWS: "FALSE"
-          SHOW_LINES_OF_CODE: "FALSE"
+          SHOW_LINES_OF_CODE: "TRUE"
+          SHOW_UPDATED_DATE: "FALSE"
