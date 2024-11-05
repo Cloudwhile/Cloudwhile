@@ -13,5 +13,72 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=cloudwhile/tpcl&type=Timeline)](https://github.com/cloudwhile/tpcl)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 19.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+🌆 Daytime                115 commits         █████████░░░░░░░░░░░░░░░░   34.12 % 
+🌃 Evening                189 commits         ██████████████░░░░░░░░░░░   56.08 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Tuesday                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Wednesday                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Friday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Saturday                 82 commits          ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Cloudwhile/Cloudwhile/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/11/2024 09:21:58 UTC
 <!--END_SECTION:waka-->
 
