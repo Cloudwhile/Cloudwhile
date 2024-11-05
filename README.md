@@ -10,7 +10,9 @@
 
 [![Cloudwhile's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudwhile&theme=default)](https://github.com/cloudwhile)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cloudwhile/tpcl&type=Timeline)](https://github.com/cloudwhile/tpcl)
+<!--[![Star History Chart](https://api.star-history.com/svg?repos=cloudwhile/tpcl&type=Timeline)](https://github.com/cloudwhile/tpcl)-->
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
