@@ -15,7 +15,7 @@
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.9%20thousand%20lines%20of%20code-blue)
 
