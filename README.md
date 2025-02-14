@@ -1,18 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=D50E5C&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Here+are+nothing.;There+will+be+something+soon%EF%BC%81%EF%BC%81%EF%BC%81)](#)
+<div align="center">
 
-<a href="https://github.com/cloudwhile">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cloudwhile" />
-</a>
-<a href="https://github.com/cloudwhile">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudwhile&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=28&duration=3000&pause=1000&color=F791BF&center=true&width=460&lines=Hi!;Welcome+to+Cloudwhile+Profile!;Happy+Comes+From+Interests!)](https://git.io/typing-svg)
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=cloudwhile&theme=dracula)
+
+
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwhile&layout=compact)](#)-->
-
-[![Cloudwhile's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudwhile&theme=default)](https://github.com/cloudwhile)
+</div>
+<br/><hr/>
+  
+[![Don't be lazy](https://github-readme-activity-graph.vercel.app/graph?username=cloudwhile&theme=rogue&hide_border=true&custom_title=Working%20Times)](https://github.com/cloudwhile)
 
 <!--[![Star History Chart](https://api.star-history.com/svg?repos=cloudwhile/tpcl&type=Timeline)](https://github.com/cloudwhile/tpcl)-->
+<br/>
+<div align="center">
 
-<br/><br/>
+## Most use
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,php,html,js,css,tailwind,vue,ts)](https://skillicons.dev) 
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=cloudwhile&layout=compact&langs_count=8&theme=dracula)
+</div>
+<br/>
+<details>
+  <summary>More Info abot me ⚡</summary>
+  <br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2026%20mins-blue)
@@ -73,4 +87,4 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
+</details>
