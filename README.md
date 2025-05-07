@@ -25,7 +25,7 @@
 </div>
 <br/>
 <details>
-  <summary>More Info abot me ⚡</summary>
+  <summary>More Info about me ⚡</summary>
   <br/>
 
 <!--START_SECTION:waka-->
