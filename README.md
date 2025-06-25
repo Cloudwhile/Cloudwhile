@@ -60,11 +60,10 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               54 mins             ██████████████████████░░░   89.19 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
