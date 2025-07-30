@@ -60,10 +60,10 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 46 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
