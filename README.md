@@ -29,7 +29,7 @@
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-344.76%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,11 +60,11 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 40 mins       █████████████████████████   99.97 % 
+TypeScript               3 hrs 42 mins       █████████████████████████   99.97 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
