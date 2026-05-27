@@ -29,47 +29,9 @@
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-404.02%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-🌆 Daytime                115 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-🌃 Evening                266 commits         ████████████████░░░░░░░░░   63.03 % 
-🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Tuesday                  92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Wednesday                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Friday                   96 commits          ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               17 hrs 10 mins      ███████████████░░░░░░░░░░   59.00 % 
-C++                      2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Vue                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-
-🔥 Editors: 
-VS Code                  28 hrs 28 mins      ████████████████████████░   97.77 % 
-Visual Studio            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-```
 
 **I Mostly Code in C++** 
 
