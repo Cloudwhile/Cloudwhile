@@ -29,16 +29,55 @@
   <br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-404.02%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%202%20mins-blue?style=flat)
 
-**I Mostly Code in C++** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-454.01%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
 
 ```text
-C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+🌆 Daytime                115 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌃 Evening                267 commits         ████████████████░░░░░░░░░   63.12 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Tuesday                  92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Wednesday                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Thursday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Friday                   96 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Saturday                 79 commits          █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               24 hrs 5 mins       ████████████████████░░░░░   81.97 % 
+TOML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Git Config               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+
+🔥 Editors: 
+VS Code                  29 hrs 23 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
