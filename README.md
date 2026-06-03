@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=28&duration=3000&pause=1000&color=F791BF&center=true&width=460&lines=Hi!;Welcome+to+Cloudwhile+Profile!;Happy+Comes+From+Interests!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=28&duration=3000&pause=1000&color=F791BF&center=true&width=460&lines=Hi!;Welcome+to+Cloudwhile+Profile!;Crazy+Thursday!)](https://git.io/typing-svg)
 
 
 
