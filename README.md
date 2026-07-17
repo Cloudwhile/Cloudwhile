@@ -29,48 +29,9 @@
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-861.26%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-🌆 Daytime                175 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌃 Evening                337 commits         █████████████░░░░░░░░░░░░   52.57 % 
-🌙 Night                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Tuesday                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Wednesday                150 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Friday                   123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Saturday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               15 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.63 % 
-JavaScript               6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-CSS                      2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-JSON                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-C++                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-
-🔥 Editors: 
-VS Code                  34 hrs 39 mins      █████████████████████████   99.79 % 
-Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
 
 **I Mostly Code in TypeScript** 
 
