@@ -31,7 +31,44 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-861.26%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+🌆 Daytime                235 commits         ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+🌃 Evening                417 commits         ████████████░░░░░░░░░░░░░   47.39 % 
+🌙 Night                  113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Tuesday                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                232 commits         ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Thursday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   163 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Saturday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Sunday                   51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               16 hrs 47 mins      █████████████░░░░░░░░░░░░   53.17 % 
+JavaScript               6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+CSS                      2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Rust                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+
+🔥 Editors: 
+VS Code                  31 hrs 35 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
