@@ -29,7 +29,68 @@
   <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2024%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2034%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.59%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+🌆 Daytime                264 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                450 commits         ████████████░░░░░░░░░░░░░   46.49 % 
+🌙 Night                  137 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Tuesday                  144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                234 commits         ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+Thursday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Friday                   180 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Saturday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Sunday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               1 hr 49 mins        ██████████████████░░░░░░░   73.58 % 
+CSS                      37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 29 mins (100.0%)
+
+✍️ 1,009 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,804,285,451 Input Tokens, 3,700,330 Output Tokens
+
+💵 $1593.60 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 31 AI Prompts
+
+GPT                      1,073 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 11,590 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
