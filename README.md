@@ -4,7 +4,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=cloudwhile&theme=dracula)
+![](https://github-stats-extended.vercel.app/api?username=cloudwhile&theme=dracula)
 
 
 
