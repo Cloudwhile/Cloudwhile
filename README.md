@@ -61,5 +61,23 @@
   <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2024%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.23 % 
+C++                      1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+JSON                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+QML                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Cloudwhile/Cloudwhile/main/assets/bar_graph.png)
+
+
 <!--END_SECTION:waka-->
 </details>
