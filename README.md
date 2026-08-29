@@ -61,17 +61,17 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-QML                      1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   40.70 % 
-C++                      1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.57 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-CMake                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-PowerShell               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+C++                      1 hr 46 mins        ███████████░░░░░░░░░░░░░░   44.27 % 
+QML                      1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   32.57 % 
+PowerShell               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+CMake                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 **Timeline**
