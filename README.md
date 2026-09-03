@@ -61,17 +61,17 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-YAML                     1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-QML                      1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Inno Setup               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+C++                      1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+YAML                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+QML                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Inno Setup               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 ```
 
 **Timeline**
