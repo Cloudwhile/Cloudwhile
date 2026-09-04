@@ -17,7 +17,7 @@ jobs:
           SECTION_NAME: waka
           SHOW_OS: "FALSE"
           SHOW_PROJECTS: "FALSE"
-          SHOW_SHORT_INFO: "TRUE"
+          SHOW_SHORT_INFO: "FALSE"
           DEBUG_LOGGING: "FALSE"
           SHOW_PROFILE_VIEWS: "FALSE"
           SHOW_TOTAL_CODE_TIME: "TRUE"
