@@ -61,7 +61,42 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2034%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.39%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 27.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 332 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌆 Daytime                252 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+🌃 Evening                417 commits         ████████████░░░░░░░░░░░░░   47.55 % 
+🌙 Night                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Wednesday                202 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Friday                   170 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -73,6 +108,18 @@ YAML                     1 hr 43 mins        ████░░░░░░░�
 Inno Setup               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
 
 **Timeline**
 
