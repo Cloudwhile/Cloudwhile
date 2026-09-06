@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://github.com/cloudwhile">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cloudwhile&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Cloudwhile's contribution activity graph" />
+    <img width="100%" src="https://mygithubactivitygraph.abszero.cc/graph?username=cloudwhile&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Cloudwhile's contribution activity graph" />
   </a>
 </div>
 
