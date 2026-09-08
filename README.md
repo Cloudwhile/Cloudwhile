@@ -61,7 +61,7 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -90,11 +90,11 @@ Sunday                   93 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      14 hrs 57 mins      ███████████████░░░░░░░░░░   58.31 % 
-JSON                     3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Inno Setup               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+C++                      15 hrs 49 mins      ███████████████░░░░░░░░░░   59.52 % 
+JSON                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Inno Setup               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 
 **I Mostly Code in C++** 
