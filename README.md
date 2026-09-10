@@ -61,7 +61,7 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -90,11 +90,11 @@ Sunday                   93 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      15 hrs 46 mins      ████████████████░░░░░░░░░   63.41 % 
-JSON                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-QML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-TypeScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+C++                      15 hrs 40 mins      █████████████████░░░░░░░░   68.19 % 
+JSON                     2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+TypeScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+QML                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 **I Mostly Code in C++** 
