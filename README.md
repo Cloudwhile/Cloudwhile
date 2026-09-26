@@ -90,11 +90,11 @@ Sunday                   93 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-JavaScript               1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Java                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-CSS                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Groovy                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Java                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+JavaScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Groovy                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 **I Mostly Code in C++** 
