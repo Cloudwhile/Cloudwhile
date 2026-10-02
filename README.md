@@ -61,28 +61,28 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-🌆 Daytime                275 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌃 Evening                433 commits         ████████████░░░░░░░░░░░░░   47.12 % 
-🌙 Night                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+🌞 Morning                95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+🌆 Daytime                281 commits         ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌃 Evening                433 commits         ████████████░░░░░░░░░░░░░   46.81 % 
+🌙 Night                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Tuesday                  161 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Wednesday                203 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Friday                   173 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Saturday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Sunday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Tuesday                  161 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Wednesday                203 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   173 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Saturday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Sunday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 
 
@@ -90,21 +90,21 @@ Sunday                   97 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-TypeScript               1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Vue                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-C#                       32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+C#                       4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
+JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+TypeScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
