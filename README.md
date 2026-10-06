@@ -61,28 +61,28 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-742%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-🌆 Daytime                293 commits         ████████░░░░░░░░░░░░░░░░░   30.78 % 
-🌃 Evening                441 commits         ████████████░░░░░░░░░░░░░   46.32 % 
-🌙 Night                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+🌆 Daytime                303 commits         ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌃 Evening                446 commits         ████████████░░░░░░░░░░░░░   46.12 % 
+🌙 Night                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Tuesday                  161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Wednesday                203 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Friday                   181 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Saturday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Monday                   87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Tuesday                  161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Wednesday                203 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Friday                   181 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Saturday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 ```
 
 
@@ -90,11 +90,11 @@ Sunday                   104 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       10 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.28 % 
-PowerShell               4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-C                        3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+C#                       13 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   40.76 % 
+PowerShell               7 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Markdown                 3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+C                        3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 
 **I Mostly Code in C++** 
