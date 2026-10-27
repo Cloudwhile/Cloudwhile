@@ -61,28 +61,28 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-🌆 Daytime                347 commits         ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌃 Evening                522 commits         ███████████░░░░░░░░░░░░░░   45.99 % 
-🌙 Night                  154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+🌆 Daytime                347 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌃 Evening                523 commits         ███████████░░░░░░░░░░░░░░   45.80 % 
+🌙 Night                  159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Tuesday                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Wednesday                228 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Friday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Saturday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Sunday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Monday                   104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Tuesday                  200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Wednesday                228 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Thursday                 114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Friday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Saturday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Sunday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 ```
 
 
@@ -90,21 +90,21 @@ Sunday                   123 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       11 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Python                   7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-TypeScript               6 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Markdown                 4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Bash                     3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+C#                       12 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   7 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+TypeScript               6 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Markdown                 5 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+PowerShell               4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C++                      5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
