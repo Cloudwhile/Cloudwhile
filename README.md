@@ -61,6 +61,8 @@
   <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2016%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -88,11 +90,11 @@ Sunday                   124 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PowerShell               5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Markdown                 3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Rust                     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-C#                       2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Kotlin                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown                 2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+TypeScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Rust                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Kotlin                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+PowerShell               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
 
 **I Mostly Code in C++** 
