@@ -90,11 +90,11 @@ Sunday                   124 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-TypeScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Rust                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Kotlin                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-PowerShell               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Markdown                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+TypeScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Rust                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+TOML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
 **I Mostly Code in C++** 
