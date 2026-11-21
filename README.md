@@ -63,26 +63,26 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.78%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-🌆 Daytime                337 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-🌃 Evening                516 commits         ███████████░░░░░░░░░░░░░░   45.30 % 
-🌙 Night                  167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌞 Morning                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+🌆 Daytime                339 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌃 Evening                532 commits         ███████████░░░░░░░░░░░░░░   45.82 % 
+🌙 Night                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Wednesday                244 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Friday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Saturday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Sunday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Monday                   100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Tuesday                  206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Wednesday                246 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Friday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Saturday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Sunday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 ```
 
 
@@ -90,21 +90,21 @@ Sunday                   119 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 30 mins      ██████████████░░░░░░░░░░░   54.48 % 
-Bash                     7 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Python                   3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Markdown                 3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-C                        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Other                    24 hrs 18 mins      ████████████████████░░░░░   79.26 % 
+Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Bash                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Git Config               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in TypeScript** 
 
 ```text
-C++                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-C#                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+C++                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
